@@ -5,7 +5,8 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+    background: linear-gradient(to right, red , yellow); /* Standard syntax */
+    color: aqua;
 }
 
 h1 {
@@ -25,3 +26,5 @@ h3 {
     letter-spacing: 0.01em;
 
 }
+
+
